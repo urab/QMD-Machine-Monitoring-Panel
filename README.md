@@ -1,6 +1,9 @@
 # QMD Machine Monitoring Panel
 Industrial machine monitoring system for injection molding machines.
 
+## System Architecture
+![System Architecture](Docs/Architecture.png)
+
 ## Network Configuration
 Default Ethernet configuration:
 
