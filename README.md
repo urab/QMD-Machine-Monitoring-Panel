@@ -109,6 +109,10 @@ INPUT_PULLUP
 ## Screenshots
 (Project photos will be added.)
 
+## Documentation
+ [System Architecture](SYSTEM_ARCHITECTURE.md)
+ [Project Photos](Photos/README.md)
+
 ## Author
 Designed and developed by
 Ura Bant
